@@ -25,20 +25,20 @@ Composer (optional, for dependency management)
 1.Clone the repository:
 2.Copy code
   git clone https://github.com/kathleenjebet/calculatorphp.git
-  cd calculatorphp
+  cd calculatorphp  
 3.Start your web server:
 
 If you are using the built-in PHP web server, navigate to the project directory and run:
-sh
-Copy code
-php -S localhost:8000
+sh  
+Copy code  
+php -S localhost:8000 
 Open your web browser:
 
-Navigate to http://localhost:8000 to view the calculator app.
+Navigate to http://localhost:8000 to view the calculator app.<br>
 **Usage**<br>
 Enter the first number in the "Number 1" field.  
-Enter the second number in the "Number 2" field (if applicable).  
-Click the button corresponding to the operation you want to perform.  
+Enter the second number in the "Number 2" field (if applicable).    
+Click the button corresponding to the operation you want to perform.   
 The result will be displayed below the form  <br>
 
 
